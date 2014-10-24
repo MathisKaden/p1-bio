@@ -1,5 +1,37 @@
 /* Your Website Styles */
 
+h1 {
+    background-color: #6495ed;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+p {
+    background-color: #e0ffff;
+}
+
+div {
+    background-color: #2647AF;
+}
+
+body {
+    background-image: url("http://gs-designe.se/pattern/Canvas.jpg");
+    background-repeat: no-repeat;
+}
+
+
+.picture{
+	width:320px;
+}
+
+.cool-sites{
+
+}
+
+
+.b-pics{
+	margin-left: 60px;
+}
+
 
 /* Show Grid */
 .showgrid {
